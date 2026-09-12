@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Nicholas Maina Mureithi
+**👋 Hi, I'm Nicholas Maina Mureithi**
 
 💫 **About Me:**
 
-Hi there! 👋 I'm **Nicholas Maina Mureithi**, a Software Engineer and Computer Science student from Kenya 🇰🇪.
+**Hi there! 👋 I'm **Nicholas Maina Mureithi**, a Software Engineer and Computer Science student from Kenya 🇰🇪.
 I'm passionate about building practical, scalable software solutions and turning ideas into real-world applications. I enjoy working across **frontend, backend, databases, and UI/UX**, while continuously improving my software engineering skills.
-Currently, I'm focused on **full-stack development**, with a growing interest in **Java, Spring Boot, Angular, microservices, cloud technologies, and system design**.
+Currently, I'm focused on **full-stack development**, with a growing interest in **Java, Spring Boot, Angular, microservices, cloud technologies, and system design**.**
 
 🚀 I love learning by building — whether it's a university management system, student platform, finance application, or something completely experimental.
 
----
 
 ## 🌐 Connect With Me
 
@@ -45,7 +44,6 @@ Currently, I'm focused on **full-stack development**, with a growing interest in
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 
----
 
 ## 🚀 What I'm Working On
 
@@ -58,34 +56,35 @@ Currently, I'm focused on **full-stack development**, with a growing interest in
 * 🎨 Improving my **UI/UX design** skills
 * ☁️ Learning more about deployment, cloud infrastructure and DevOps
 
----
 
 ## 📌 Featured Projects
 
 
 ## 📊 GitHub Stats
 
+🚀 **Started my GitHub journey:** `12 June 2025`
 
-
-## 🔥 GitHub Streak
+📅 **Active on GitHub:** `12 June 2025 → Present`
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=K1nkyio\&theme=tokyonight\&hide_border=true)
 
----
+> *Every commit is a small step toward becoming a better engineer.*
 
 ## 🏆 GitHub Trophies
 
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K1nkyio\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
 
 ## ✍️ Random Dev Quote
 
-
+> "First, solve the problem. Then, write the code."
 
 ## 🔝 Top Contributed Repo
 
-
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=K1nkyio\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
 
 ## 📈 Contribution Graph
+
+![Nicholas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K1nkyio\&theme=tokyo-night\&hide_border=true)
 
 
 
