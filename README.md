@@ -68,9 +68,13 @@ Hi there! 👋 I'm <strong>Nicholas Maina Mureithi</strong>, a Software Engineer
 
 <h2>✍️ Random Dev Quote</h2>
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+<p align="left">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    width="400"
+  />
 </p>
+
 
 
 <h2>💡 A Little More About Me</h2>
