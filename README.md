@@ -46,7 +46,7 @@ Hi there! 👋 I'm <strong>Nicholas Maina Mureithi</strong>, a Software Engineer
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
----
+
 
 <h2>🚀 What I'm Working On</h2>
 
@@ -59,24 +59,12 @@ Hi there! 👋 I'm <strong>Nicholas Maina Mureithi</strong>, a Software Engineer
 <p>🎨 Improving my <strong>UI/UX design</strong> skills</p>
 <p>☁️ Learning more about <strong>cloud, deployment and DevOps</strong></p>
 
----
+
 
 <h2>📌 Featured Projects</h2>
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=K1nkyio&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1nkyio&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K1nkyio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
 
 <h2>✍️ Random Dev Quote</h2>
 
@@ -84,23 +72,6 @@ Hi there! 👋 I'm <strong>Nicholas Maina Mureithi</strong>, a Software Engineer
   <i>"First, solve the problem. Then, write the code."</i>
 </p>
 
----
-
-<h2>🔝 Top Contributed Repo</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=K1nkyio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<h2>📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K1nkyio&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 <h2>💡 A Little More About Me</h2>
 
