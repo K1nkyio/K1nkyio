@@ -50,14 +50,14 @@ Hi there! 👋 I'm <strong>Nicholas Maina Mureithi</strong>, a Software Engineer
 
 <h2>🚀 What I'm Working On</h2>
 
-<p>🎓 Pursuing a <strong>BSc in Computer Science</strong></p>
-<p>💻 Building full-stack web applications</p>
-<p>🏫 Developing university and student-focused platforms</p>
-<p>☕ Expanding my <strong>Java & Spring Boot</strong> skills</p>
-<p>🅰️ Learning <strong>Angular & TypeScript</strong></p>
-<p>🧩 Exploring <strong>microservices architecture</strong></p>
-<p>🎨 Improving my <strong>UI/UX design</strong> skills</p>
-<p>☁️ Learning more about <strong>cloud, deployment and DevOps</strong></p>
+<p>🎓 Pursuing a <strong>BSc in Computer Science</strong>
+💻 Building full-stack web applications
+🏫 Developing university and student-focused platforms
+☕ Expanding my <strong>Java & Spring Boot</strong> skills
+🅰️ Learning <strong>Angular & TypeScript</strong>
+🧩 Exploring <strong>microservices architecture</strong>
+🎨 Improving my <strong>UI/UX design</strong> skills
+☁️ Learning more about <strong>cloud, deployment and DevOps</strong></p>
 
 
 
