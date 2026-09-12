@@ -3,9 +3,7 @@
 💫 **About Me:**
 
 Hi there! 👋 I'm **Nicholas Maina Mureithi**, a Software Engineer and Computer Science student from Kenya 🇰🇪.
-
 I'm passionate about building practical, scalable software solutions and turning ideas into real-world applications. I enjoy working across **frontend, backend, databases, and UI/UX**, while continuously improving my software engineering skills.
-
 Currently, I'm focused on **full-stack development**, with a growing interest in **Java, Spring Boot, Angular, microservices, cloud technologies, and system design**.
 
 🚀 I love learning by building — whether it's a university management system, student platform, finance application, or something completely experimental.
@@ -14,11 +12,9 @@ Currently, I'm focused on **full-stack development**, with a growing interest in
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn — [Nicholas Maina Mureithi](https://www.linkedin.com/)
-* 🐙 GitHub — [@K1nkyio](https://github.com/K1nkyio)
-* 📧 Email — [mainanicholas@zetech.ac.ke](mailto:mainanicholas@zetech.ac.ke)
+* 💼(https://www.linkedin.com/)
+* 📧[mainanicholas@zetech.ac.ke](mailto:mainanicholas@zetech.ac.ke)
 
----
 
 ## 💻 Tech Stack
 
@@ -66,25 +62,6 @@ Currently, I'm focused on **full-stack development**, with a growing interest in
 
 ## 📌 Featured Projects
 
-### 🎓 Expert Giggle — University Management System
-
-A full-stack university management platform with separate portals for students, lecturers, academics, finance and administration.
-
-**Stack:** React • Tailwind CSS • Express.js • PostgreSQL • Supabase
-
-### 🌐 ZetechVerse
-
-A student-focused digital platform featuring campus articles, marketplace functionality, opportunities, events and moderated student content.
-
-**Stack:** React • TypeScript • Vite • Tailwind CSS • Express.js • Supabase
-
-### 💰 Savvy Wallet
-
-A student-oriented personal finance application designed around budgeting, expense tracking, financial goals and automated transaction analysis.
-
-**Stack:** React • TypeScript • Capacitor • Supabase
-
----
 
 ## 📊 GitHub Stats
 
