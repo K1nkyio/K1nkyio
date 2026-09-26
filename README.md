@@ -1,7 +1,7 @@
 <h1>💫 About Me</h1>
 
 <p>
-Hi there! 👋 I'm <strong>Nicholas Maina Mureithi</strong>, a Software Engineer and Computer Science student from Kenya 🇰🇪. I'm passionate about building practical, scalable software solutions and turning ideas into real-world applications. I enjoy working across <strong>frontend, backend, databases, and UI/UX</strong>, while continuously improving my software engineering skills. Currently, I'm focused on <strong>full-stack development</strong>, with a growing interest in <strong>Java, Spring Boot, Angular, microservices, cloud technologies, and system design</strong>. 🚀I love learning by building — whether it's a university management system, student platform, finance application, or something completely experimental.
+Hi there! 👋 I'm <strong>Nicholas Maina Mureithi</strong>, a Software Engineer and Computer Science student from Kenya 🇰🇪. I'm passionate about building practical, scalable software solutions and turning ideas into real-world applications. I enjoy working across <strong>frontend, backend, databases, and UI/UX</strong>, while continuously improving my software engineering skills. Currently, I'm focused on <strong>full-stack development</strong>, with a growing interest in <strong>Java, Spring Boot, Angular, microservices, cloud technologies, and system design</strong>. 🚀I love learning by building whether it's a university management system, student platform, finance application, or something completely experimental.
 </p>
 
 <h1>🌐 Connect With Me</h1>
